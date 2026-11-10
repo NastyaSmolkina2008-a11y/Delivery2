@@ -1,0 +1,14 @@
+/Users/stuskaa/Downloads/Delivery2/bin/Debug/net10.0/Delivery
+/Users/stuskaa/Downloads/Delivery2/bin/Debug/net10.0/Delivery.deps.json
+/Users/stuskaa/Downloads/Delivery2/bin/Debug/net10.0/Delivery.runtimeconfig.json
+/Users/stuskaa/Downloads/Delivery2/bin/Debug/net10.0/Delivery.dll
+/Users/stuskaa/Downloads/Delivery2/bin/Debug/net10.0/Delivery.pdb
+/Users/stuskaa/Downloads/Delivery2/obj/Debug/net10.0/Delivery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stuskaa/Downloads/Delivery2/obj/Debug/net10.0/Delivery.AssemblyInfoInputs.cache
+/Users/stuskaa/Downloads/Delivery2/obj/Debug/net10.0/Delivery.AssemblyInfo.cs
+/Users/stuskaa/Downloads/Delivery2/obj/Debug/net10.0/Delivery.csproj.CoreCompileInputs.cache
+/Users/stuskaa/Downloads/Delivery2/obj/Debug/net10.0/Delivery.dll
+/Users/stuskaa/Downloads/Delivery2/obj/Debug/net10.0/refint/Delivery.dll
+/Users/stuskaa/Downloads/Delivery2/obj/Debug/net10.0/Delivery.pdb
+/Users/stuskaa/Downloads/Delivery2/obj/Debug/net10.0/Delivery.genruntimeconfig.cache
+/Users/stuskaa/Downloads/Delivery2/obj/Debug/net10.0/ref/Delivery.dll
